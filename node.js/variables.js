@@ -12,4 +12,5 @@ console.log("Su edad es: " + edad);
 
 //REALES
 let area = numeropi * radio * radio;
+let radio = parseFloat(prompt("Ingrese el valor del radio: "));
 console.log("El área del círculo es: " + area);
